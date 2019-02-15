@@ -5,7 +5,7 @@ Use github, and travis-cli.org
 my github repository: https://github.com/goHighMarketing/project01  Username: goHighMarketing
 install android studio if not already installed
 The flutter folder is in /opt/flutter
-install ruby and set the path: export PATH="/home/toadwicks/.gem/ruby/2.6.0/bin:$PATH"
+install ruby (for travis-cli) and set the path: export PATH="/home/toadwicks/.gem/ruby/2.6.0/bin:$PATH"
 get cydia-impactor (yay cidia-impactor)
 follow the steps from this link: https://medium.com/flutter-community/developing-and-debugging-flutter-apps-for-ios-without-a-mac-8d362a8ec667
 */
