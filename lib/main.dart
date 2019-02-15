@@ -1,3 +1,14 @@
+// To debug to live ios device (ie - iphone) without Mac OS-X do the following:
+/*
+create a 'build' folder in the root of this project.
+Use github, and travis-cli.org
+install android studio if not already installed
+The flutter folder is in /opt/flutter
+install ruby and set the path: export PATH="/home/toadwicks/.gem/ruby/2.6.0/bin:$PATH"
+get cydia-impactor (yay cidia-impactor)
+follow the steps from this link: https://medium.com/flutter-community/developing-and-debugging-flutter-apps-for-ios-without-a-mac-8d362a8ec667
+*/
+
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
