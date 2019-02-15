@@ -2,6 +2,7 @@
 /*
 create a 'build' folder in the root of this project.
 Use github, and travis-cli.org
+my github repository: https://github.com/goHighMarketing/project01  Username: goHighMarketing
 install android studio if not already installed
 The flutter folder is in /opt/flutter
 install ruby and set the path: export PATH="/home/toadwicks/.gem/ruby/2.6.0/bin:$PATH"
